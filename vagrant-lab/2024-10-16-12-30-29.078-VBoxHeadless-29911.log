@@ -1,0 +1,12 @@
+Log created: 2024-10-16T12:30:29.789493000Z
+Process ID:  29911 (0x74d7)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: vagrant-lab_default_1728795720490_62191
+Arg[3]: --startvm
+Arg[4]: 6367f9cc-2022-47a6-b011-3afc7968b522
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

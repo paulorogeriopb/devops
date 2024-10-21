@@ -1,3 +1,3 @@
 # Devops
-#Vagrant
-#Git
+# Vagrant
+# Git
